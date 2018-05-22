@@ -1,0 +1,22 @@
+menu:
+    首页: /
+    归档: /archives/
+    Weibo: http://weibo.com/hddoo
+    GitHub: https://github.com/xdhan
+    Gitee: https://gitee.com/xdhan
+    # Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+# ga: UA-xxxxxxxx-x
+
+# Copyright Infomation
+startyear: 2018
